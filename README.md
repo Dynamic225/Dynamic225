@@ -1,0 +1,3 @@
+- Hi my name is Anthony Wittenborn
+- I am a CS Major at the University of Alabama in Huntsville
+- I am currently working on developing a 2D platformer game as a part of my object oriented programming with Java class
